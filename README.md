@@ -1,6 +1,7 @@
 <h1 align="center">Olaaa 👋, I'm Martin Kalema</h1>
 <h3 align="center">A passionate Web developer from Uganda</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/git3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkalema&label=Profile%20views&color=0e75b6&style=flat" alt="martinkalema" /> </p>
 
 - 🔭 I’m currently working on **Odoo Hospital ERP**
