@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinKalema](https://github.com/MartinKalema)
 
-- 💬 Ask me about **Odoo, React, Node.js, Redux, express.js, Owl**
+- 💬 Ask me about **Odoo, React, Node.js, Redux, express.js, Owl.js**
 
 - 📫 How to reach me **kalema.martin@students.mak.ac.ug**
 
