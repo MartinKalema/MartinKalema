@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **mern e-commerce site**
 
-- 🌱 I’m currently learning the**mern stack**
+- 🌱 I’m currently learning the **mern stack**
 
 - 👯 I’m looking to collaborate on **mern projects**
 
