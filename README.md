@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, I'm Martin Kalema</h1>
-<h3 align="center">Mastering the craft, a developer's calling</h3>
+<h3 align="center">Mastering the craft: A Developer's Calling</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkalema&label=Profile%20views&color=0e75b6&style=flat" alt="martinkalema" /> </p>
