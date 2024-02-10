@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkalema&label=Profile%20views&color=0e75b6&style=flat" alt="martinkalema" /> </p>
 
-- 🔭 I’m currently working on **Odoo Hospital ERP**
+- 🔭 I’m currently working on **mern e-commerce site**
 
-- 🌱 I’m currently learning **Odoo**
+- 🌱 I’m currently learning the**mern stack**
 
-- 👯 I’m looking to collaborate on **Odoo Projects**
+- 👯 I’m looking to collaborate on **mern projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinKalema](https://github.com/MartinKalema)
 
-- 💬 Ask me about **Odoo, React, Node.js, Redux, express.js, Owl.js**
+- 💬 Ask me about **React, Node.js, Redux, express.js, Synk**
 
 - 📫 How to reach me **kalema.martin@students.mak.ac.ug**
 
