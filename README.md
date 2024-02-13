@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Detecting Alzheimer's Disease using Gene Sequencing**
 
-- 🌱 I’m currently learning the **Natural Language Processing**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **ML, DL & NLP Projects** 
 
