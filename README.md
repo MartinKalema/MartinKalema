@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkalema&label=Profile%20views&color=0e75b6&style=flat" alt="martinkalema" /> </p>
 
-- 🔭 I’m currently working on **CV Builder**
+- 🔭 I’m currently working on **Detecting Alzheimer's Disease using Gene Sequencing**
 
-- 🌱 I’m currently learning the **MERN**
+- 🌱 I’m currently learning the **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **MERN Projects** 
+- 👯 I’m looking to collaborate on **ML, DL & NLP Projects** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinKalema](https://github.com/MartinKalema)
 
-- 💬 Ask me about **React, Node.js, Redux, express.js, Synk**
+- 💬 Ask me about **ML, MLOPs, Deep Learning**
 
 - 📫 How to reach me **kalema.martin@students.mak.ac.ug**
 
