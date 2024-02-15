@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkalema&label=Profile%20views&color=0e75b6&style=flat" alt="martinkalema" /> </p>
 
-- 🔭 I’m currently working on **Discovering Alzheimer's Disease biomarkers in Gene Sequences**
+- 🔭 I’m currently working on **Discovering Alzheimer's Disease biomarkers in Gene Sequences.**
 
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
+- 🌱 I’m currently learning **Natural Language Processing (NLP).**
 
-- 👯 I’m looking to collaborate on **ML, DL & NLP Projects** 
+- 👯 I’m looking to collaborate on **ML, DL & NLP Projects.** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinKalema](https://github.com/MartinKalema)
 
