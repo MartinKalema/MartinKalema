@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, I'm Martin Kalema</h1>
+<h1 align="center">Martin Kalema</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=Mastering+the+craft.;A+developer's+calling.;" alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
