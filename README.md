@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Discovering Alzheimer's Disease biomarkers in Gene Sequences.**
 
-- 🌱 I’m currently learning **Natural Language Processing (NLP).**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **ML, DL & NLP Projects.** 
+- 👯 I’m looking to collaborate on **ML, DL & GenAI Projects.** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MartinKalema](https://github.com/MartinKalema)
 
-- 💬 Ask me about **ML, MLOPs, Deep Learning**
+- 💬 Ask me about **ML, Deep Learning, MLOps**
 
 - 📫 How to reach me **kalema.martin@students.mak.ac.ug**
 
