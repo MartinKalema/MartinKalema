@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ML, Deep Learning, MLOps**
 
-- 📫 How to reach me **kalema.martin@students.mak.ac.ug**
+- 📫 How to reach me **mailmartinkalema@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/martinkalema](https://www.linkedin.com/in/martinkalema)
 
